@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Koffee</string>
+    <string name="choose_your_n_favorite_coffee">Choose your\n Favorite Coffee</string>
+    <string name="get_started">Get Started</string>
+    <string name="splash_screen">Splash Screen</string>
+</resources>
