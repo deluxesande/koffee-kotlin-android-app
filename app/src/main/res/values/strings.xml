@@ -3,4 +3,11 @@
     <string name="choose_your_n_favorite_coffee">Choose your\n Favorite Coffee</string>
     <string name="get_started">Get Started</string>
     <string name="splash_screen">Splash Screen</string>
+    <string name="search_anything">Search Anything...</string>
+    <string name="popular_coffees">Popular Coffees</string>
+    <string name="explorer">Explorer</string>
+    <string name="cart">Cart</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="profile">Profile</string>
+    <string name="my_order">My Order</string>
 </resources>
